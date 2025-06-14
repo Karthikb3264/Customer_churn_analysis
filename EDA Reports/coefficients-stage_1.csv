@@ -1,0 +1,10 @@
+Feature Name,Coefficient
+STANDARDIZED_Num_Sites,1.72489
+STANDARDIZED_Years,0.57751
+STANDARDIZED_Age,0.254916
+STANDARDIZED_Account_Manager,0.141073
+Onboard_date (Month)-11,0.122673
+STANDARDIZED_Total_Purchase,0.026385
+STANDARDIZED_Onboard_date (Day of Month),0.01463
+Onboard_date (Month)-3,0.008698
+Onboard_date (Hour of Day)-9,-0.006159

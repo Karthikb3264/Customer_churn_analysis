@@ -1,0 +1,12 @@
+Feature Name,Relative Importance,Parent Feature Name
+Num_Sites,1.0,Num_Sites
+Years,0.10608476453067997,Years
+Age,0.0091717838734845,Age
+Onboard_date (Month),0.00335407858579693,Onboard_date (Month)
+Account_Manager,0.0014939996176921617,Account_Manager
+Total_Purchase,0.0010599572998182087,Total_Purchase
+Onboard_date (Hour of Day),0.0001321199689655242,Onboard_date (Hour of Day)
+Onboard_date (Day of Month),8.639525076229915e-06,Onboard_date (Day of Month)
+Location,0.0,Location
+Onboard_date (Day of Week),0.0,Onboard_date (Day of Week)
+Onboard_date (Year),0.0,Onboard_date (Year)

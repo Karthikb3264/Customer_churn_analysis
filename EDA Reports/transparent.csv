@@ -1,0 +1,915 @@
+Matrix of word-grams occurrences tokenizer: NLTK based tokenizer
+Matrix of word-grams occurrences binary: True
+Matrix of word-grams occurrences sublinear_tf: False
+Matrix of word-grams occurrences use_idf: False
+Matrix of word-grams occurrences lowercase: True
+Matrix of word-grams occurrences norm: L2
+Intercept: -3.2078392594952154
+Loss distribution: Binomial Deviance
+Link function: logit
+
+Feature Name,Type,Derived Feature,Transform1,Value1,Transform2,Value2,Coefficient
+Account_Manager,NUM,STANDARDIZED_Account_Manager,Missing imputation,0.0,Standardize,"(0,0.499643087387)",0.1410728690169785
+Age,NUM,STANDARDIZED_Age,Missing imputation,42.0,Standardize,"(42,6.12415552139)",0.25491586457003407
+Location,TXT,Location-suite 115,Matrix of word-grams occurrences,suite 115,,,0.0
+Location,TXT,Location-suite 123,Matrix of word-grams occurrences,suite 123,,,0.0
+Location,TXT,Location-suite 132,Matrix of word-grams occurrences,suite 132,,,0.0
+Location,TXT,Location-suite 180,Matrix of word-grams occurrences,suite 180,,,0.0
+Location,TXT,Location-suite 032,Matrix of word-grams occurrences,suite 032,,,0.0
+Location,TXT,Location-suite 044,Matrix of word-grams occurrences,suite 044,,,0.0
+Location,TXT,Location-suite 269,Matrix of word-grams occurrences,suite 269,,,0.0
+Location,TXT,Location-suite 299,Matrix of word-grams occurrences,suite 299,,,0.0
+Location,TXT,Location-suite 561,Matrix of word-grams occurrences,suite 561,,,0.0
+Location,TXT,Location-suite 569,Matrix of word-grams occurrences,suite 569,,,0.0
+Location,TXT,Location-suite 935,Matrix of word-grams occurrences,suite 935,,,0.0
+Location,TXT,Location-suite 944,Matrix of word-grams occurrences,suite 944,,,0.0
+Location,TXT,Location-suite 665,Matrix of word-grams occurrences,suite 665,,,0.0
+Location,TXT,Location-suite 780,Matrix of word-grams occurrences,suite 780,,,0.0
+Location,TXT,Location-suite,Matrix of word-grams occurrences,suite,,,0.0
+Location,TXT,Location-summit suite,Matrix of word-grams occurrences,summit suite,,,0.0
+Location,TXT,Location-summit,Matrix of word-grams occurrences,summit,,,0.0
+Location,TXT,Location-susanchester,Matrix of word-grams occurrences,susanchester,,,0.0
+Location,TXT,Location-susan,Matrix of word-grams occurrences,susan,,,0.0
+Location,TXT,Location-street apt,Matrix of word-grams occurrences,street apt,,,0.0
+Location,TXT,Location-streets,Matrix of word-grams occurrences,streets,,,0.0
+Location,TXT,Location-street,Matrix of word-grams occurrences,street,,,0.0
+Location,TXT,Location-stream apt,Matrix of word-grams occurrences,stream apt,,,0.0
+Location,TXT,Location-stream,Matrix of word-grams occurrences,stream,,,0.0
+Location,TXT,Location-stravenue suite,Matrix of word-grams occurrences,stravenue suite,,,0.0
+Location,TXT,Location-stravenue,Matrix of word-grams occurrences,stravenue,,,0.0
+Location,TXT,Location-stephanie,Matrix of word-grams occurrences,stephanie,,,0.0
+Location,TXT,Location-stephenstad,Matrix of word-grams occurrences,stephenstad,,,0.0
+Location,TXT,Location-stevenmouth,Matrix of word-grams occurrences,stevenmouth,,,0.0
+Location,TXT,Location-steven,Matrix of word-grams occurrences,steven,,,0.0
+Location,TXT,Location-station suite,Matrix of word-grams occurrences,station suite,,,0.0
+Location,TXT,Location-station,Matrix of word-grams occurrences,station,,,0.0
+Location,TXT,Location-shannon,Matrix of word-grams occurrences,shannon,,,0.0
+Location,TXT,Location-sharon,Matrix of word-grams occurrences,sharon,,,0.0
+Location,TXT,Location-shawn,Matrix of word-grams occurrences,shawn,,,0.0
+Location,TXT,Location-shoals,Matrix of word-grams occurrences,shoals,,,0.0
+Location,TXT,Location-shoal,Matrix of word-grams occurrences,shoal,,,0.0
+Location,TXT,Location-shores,Matrix of word-grams occurrences,shores,,,0.0
+Location,TXT,Location-sherry,Matrix of word-grams occurrences,sherry,,,0.0
+Location,TXT,Location-springs apt,Matrix of word-grams occurrences,springs apt,,,0.0
+Location,TXT,Location-springs suite,Matrix of word-grams occurrences,springs suite,,,0.0
+Location,TXT,Location-springs,Matrix of word-grams occurrences,springs,,,0.0
+Location,TXT,Location-spring,Matrix of word-grams occurrences,spring,,,0.0
+Location,TXT,Location-spur suite,Matrix of word-grams occurrences,spur suite,,,0.0
+Location,TXT,Location-spurs,Matrix of word-grams occurrences,spurs,,,0.0
+Location,TXT,Location-spur,Matrix of word-grams occurrences,spur,,,0.0
+Location,TXT,Location-samantha,Matrix of word-grams occurrences,samantha,,,0.0
+Location,TXT,Location-samuel,Matrix of word-grams occurrences,samuel,,,0.0
+Location,TXT,Location-sarah,Matrix of word-grams occurrences,sarah,,,0.0
+Location,TXT,Location-sara,Matrix of word-grams occurrences,sara,,,0.0
+Location,TXT,Location-squares apt,Matrix of word-grams occurrences,squares apt,,,0.0
+Location,TXT,Location-squares,Matrix of word-grams occurrences,squares,,,0.0
+Location,TXT,Location-square apt,Matrix of word-grams occurrences,square apt,,,0.0
+Location,TXT,Location-square,Matrix of word-grams occurrences,square,,,0.0
+Location,TXT,Location-schmidt,Matrix of word-grams occurrences,schmidt,,,0.0
+Location,TXT,Location-scott,Matrix of word-grams occurrences,scott,,,0.0
+Location,TXT,Location-sc,Matrix of word-grams occurrences,sc,,,0.0
+Location,TXT,Location-south james,Matrix of word-grams occurrences,south james,,,0.0
+Location,TXT,Location-south,Matrix of word-grams occurrences,south,,,0.0
+Location,TXT,Location-soto,Matrix of word-grams occurrences,soto,,,0.0
+Location,TXT,Location-sd,Matrix of word-grams occurrences,sd,,,0.0
+Location,TXT,Location-sean,Matrix of word-grams occurrences,sean,,,0.0
+Location,TXT,Location-sims,Matrix of word-grams occurrences,sims,,,0.0
+Location,TXT,Location-skyway,Matrix of word-grams occurrences,skyway,,,0.0
+Location,TXT,Location-smith,Matrix of word-grams occurrences,smith,,,0.0
+Location,TXT,Location-corners apt,Matrix of word-grams occurrences,corners apt,,,0.0
+Location,TXT,Location-corners port,Matrix of word-grams occurrences,corners port,,,0.0
+Location,TXT,Location-corners,Matrix of word-grams occurrences,corners,,,0.0
+Location,TXT,Location-corner suite,Matrix of word-grams occurrences,corner suite,,,0.0
+Location,TXT,Location-corner,Matrix of word-grams occurrences,corner,,,0.0
+Location,TXT,Location-court lake,Matrix of word-grams occurrences,court lake,,,0.0
+Location,TXT,Location-courtney,Matrix of word-grams occurrences,courtney,,,0.0
+Location,TXT,Location-courts,Matrix of word-grams occurrences,courts,,,0.0
+Location,TXT,Location-court,Matrix of word-grams occurrences,court,,,0.0
+Location,TXT,Location-course,Matrix of word-grams occurrences,course,,,0.0
+Location,TXT,Location-cove apt,Matrix of word-grams occurrences,cove apt,,,0.0
+Location,TXT,Location-coves,Matrix of word-grams occurrences,coves,,,0.0
+Location,TXT,Location-cove,Matrix of word-grams occurrences,cove,,,0.0
+Location,TXT,Location-colleen,Matrix of word-grams occurrences,colleen,,,0.0
+Location,TXT,Location-collins,Matrix of word-grams occurrences,collins,,,0.0
+Location,TXT,Location-cody,Matrix of word-grams occurrences,cody,,,0.0
+Location,TXT,Location-common,Matrix of word-grams occurrences,common,,,0.0
+Location,TXT,Location-co,Matrix of word-grams occurrences,co,,,0.0
+Location,TXT,Location-carla,Matrix of word-grams occurrences,carla,,,0.0
+Location,TXT,Location-carmen,Matrix of word-grams occurrences,carmen,,,0.0
+Location,TXT,Location-carrie,Matrix of word-grams occurrences,carrie,,,0.0
+Location,TXT,Location-carter,Matrix of word-grams occurrences,carter,,,0.0
+Location,TXT,Location-camp suite,Matrix of word-grams occurrences,camp suite,,,0.0
+Location,TXT,Location-campbell,Matrix of word-grams occurrences,campbell,,,0.0
+Location,TXT,Location-camp,Matrix of word-grams occurrences,camp,,,0.0
+Location,TXT,Location-canyon apt,Matrix of word-grams occurrences,canyon apt,,,0.0
+Location,TXT,Location-canyon,Matrix of word-grams occurrences,canyon,,,0.0
+Location,TXT,Location-caldwell,Matrix of word-grams occurrences,caldwell,,,0.0
+Location,TXT,Location-cape,Matrix of word-grams occurrences,cape,,,0.0
+Location,TXT,Location-causeway,Matrix of word-grams occurrences,causeway,,,0.0
+Location,TXT,Location-ca,Matrix of word-grams occurrences,ca,,,0.0
+Location,TXT,Location-crest apt,Matrix of word-grams occurrences,crest apt,,,0.0
+Location,TXT,Location-crest suite,Matrix of word-grams occurrences,crest suite,,,0.0
+Location,TXT,Location-crest,Matrix of word-grams occurrences,crest,,,0.0
+Location,TXT,Location-crescent,Matrix of word-grams occurrences,crescent,,,0.0
+Location,TXT,Location-creek,Matrix of word-grams occurrences,creek,,,0.0
+Location,TXT,Location-crossing,Matrix of word-grams occurrences,crossing,,,0.0
+Location,TXT,Location-crossroad,Matrix of word-grams occurrences,crossroad,,,0.0
+Location,TXT,Location-craig,Matrix of word-grams occurrences,craig,,,0.0
+Location,TXT,Location-christophermouth,Matrix of word-grams occurrences,christophermouth,,,0.0
+Location,TXT,Location-christopherville,Matrix of word-grams occurrences,christopherville,,,0.0
+Location,TXT,Location-christopher,Matrix of word-grams occurrences,christopher,,,0.0
+Location,TXT,Location-christian,Matrix of word-grams occurrences,christian,,,0.0
+Location,TXT,Location-christina,Matrix of word-grams occurrences,christina,,,0.0
+Location,TXT,Location-charles,Matrix of word-grams occurrences,charles,,,0.0
+Location,TXT,Location-centers apt,Matrix of word-grams occurrences,centers apt,,,0.0
+Location,TXT,Location-centers suite,Matrix of word-grams occurrences,centers suite,,,0.0
+Location,TXT,Location-centers,Matrix of word-grams occurrences,centers,,,0.0
+Location,TXT,Location-center,Matrix of word-grams occurrences,center,,,0.0
+Location,TXT,Location-circles,Matrix of word-grams occurrences,circles,,,0.0
+Location,TXT,Location-circle,Matrix of word-grams occurrences,circle,,,0.0
+Location,TXT,Location-cliffs,Matrix of word-grams occurrences,cliffs,,,0.0
+Location,TXT,Location-cliff,Matrix of word-grams occurrences,cliff,,,0.0
+Location,TXT,Location-ct,Matrix of word-grams occurrences,ct,,,0.0
+Location,TXT,Location-curve,Matrix of word-grams occurrences,curve,,,0.0
+Location,TXT,Location-cynthia,Matrix of word-grams occurrences,cynthia,,,0.0
+Location,TXT,Location-apt 091,Matrix of word-grams occurrences,apt 091,,,0.0
+Location,TXT,Location-apt 094,Matrix of word-grams occurrences,apt 094,,,0.0
+Location,TXT,Location-apt 002,Matrix of word-grams occurrences,apt 002,,,0.0
+Location,TXT,Location-apt 089,Matrix of word-grams occurrences,apt 089,,,0.0
+Location,TXT,Location-apt 202,Matrix of word-grams occurrences,apt 202,,,0.0
+Location,TXT,Location-apt 205,Matrix of word-grams occurrences,apt 205,,,0.0
+Location,TXT,Location-apt 275,Matrix of word-grams occurrences,apt 275,,,0.0
+Location,TXT,Location-apt 356,Matrix of word-grams occurrences,apt 356,,,0.0
+Location,TXT,Location-apt 385,Matrix of word-grams occurrences,apt 385,,,0.0
+Location,TXT,Location-apt 606,Matrix of word-grams occurrences,apt 606,,,0.0
+Location,TXT,Location-apt 693,Matrix of word-grams occurrences,apt 693,,,0.0
+Location,TXT,Location-apt 112,Matrix of word-grams occurrences,apt 112,,,0.0
+Location,TXT,Location-apt 491,Matrix of word-grams occurrences,apt 491,,,0.0
+Location,TXT,Location-apt 841,Matrix of word-grams occurrences,apt 841,,,0.0
+Location,TXT,Location-apt 914,Matrix of word-grams occurrences,apt 914,,,0.0
+Location,TXT,Location-apt,Matrix of word-grams occurrences,apt,,,0.0
+Location,TXT,Location-apo aa,Matrix of word-grams occurrences,apo aa,,,0.0
+Location,TXT,Location-apo ae,Matrix of word-grams occurrences,apo ae,,,0.0
+Location,TXT,Location-apo ap,Matrix of word-grams occurrences,apo ap,,,0.0
+Location,TXT,Location-apo,Matrix of word-grams occurrences,apo,,,0.0
+Location,TXT,Location-ap,Matrix of word-grams occurrences,ap,,,0.0
+Location,TXT,Location-alley apt,Matrix of word-grams occurrences,alley apt,,,0.0
+Location,TXT,Location-alley,Matrix of word-grams occurrences,alley,,,0.0
+Location,TXT,Location-allen,Matrix of word-grams occurrences,allen,,,0.0
+Location,TXT,Location-aliciaport,Matrix of word-grams occurrences,aliciaport,,,0.0
+Location,TXT,Location-alison,Matrix of word-grams occurrences,alison,,,0.0
+Location,TXT,Location-alan,Matrix of word-grams occurrences,alan,,,0.0
+Location,TXT,Location-alexander,Matrix of word-grams occurrences,alexander,,,0.0
+Location,TXT,Location-al,Matrix of word-grams occurrences,al,,,0.0
+Location,TXT,Location-andrews,Matrix of word-grams occurrences,andrews,,,0.0
+Location,TXT,Location-andrew,Matrix of word-grams occurrences,andrew,,,0.0
+Location,TXT,Location-andrea,Matrix of word-grams occurrences,andrea,,,0.0
+Location,TXT,Location-anthonyborough,Matrix of word-grams occurrences,anthonyborough,,,0.0
+Location,TXT,Location-anthony,Matrix of word-grams occurrences,anthony,,,0.0
+Location,TXT,Location-antonio,Matrix of word-grams occurrences,antonio,,,0.0
+Location,TXT,Location-angela,Matrix of word-grams occurrences,angela,,,0.0
+Location,TXT,Location-amanda,Matrix of word-grams occurrences,amanda,,,0.0
+Location,TXT,Location-amber,Matrix of word-grams occurrences,amber,,,0.0
+Location,TXT,Location-amy,Matrix of word-grams occurrences,amy,,,0.0
+Location,TXT,Location-armstrong,Matrix of word-grams occurrences,armstrong,,,0.0
+Location,TXT,Location-arnold,Matrix of word-grams occurrences,arnold,,,0.0
+Location,TXT,Location-ar,Matrix of word-grams occurrences,ar,,,0.0
+Location,TXT,Location-ae 62096,Matrix of word-grams occurrences,ae 62096,,,0.0
+Location,TXT,Location-ae,Matrix of word-grams occurrences,ae,,,0.0
+Location,TXT,Location-ashley,Matrix of word-grams occurrences,ashley,,,0.0
+Location,TXT,Location-as,Matrix of word-grams occurrences,as,,,0.0
+Location,TXT,Location-avenue south,Matrix of word-grams occurrences,avenue south,,,0.0
+Location,TXT,Location-avenue,Matrix of word-grams occurrences,avenue,,,0.0
+Location,TXT,Location-aa,Matrix of word-grams occurrences,aa,,,0.0
+Location,TXT,Location-ak,Matrix of word-grams occurrences,ak,,,0.0
+Location,TXT,Location-austin,Matrix of word-grams occurrences,austin,,,0.0
+Location,TXT,Location-az,Matrix of word-grams occurrences,az,,,0.0
+Location,TXT,Location-manor port,Matrix of word-grams occurrences,manor port,,,0.0
+Location,TXT,Location-manor suite,Matrix of word-grams occurrences,manor suite,,,0.0
+Location,TXT,Location-manors apt,Matrix of word-grams occurrences,manors apt,,,0.0
+Location,TXT,Location-manors,Matrix of word-grams occurrences,manors,,,0.0
+Location,TXT,Location-manor,Matrix of word-grams occurrences,manor,,,0.0
+Location,TXT,Location-mark,Matrix of word-grams occurrences,mark,,,0.0
+Location,TXT,Location-martin,Matrix of word-grams occurrences,martin,,,0.0
+Location,TXT,Location-mary,Matrix of word-grams occurrences,mary,,,0.0
+Location,TXT,Location-matthew stream,Matrix of word-grams occurrences,matthew stream,,,0.0
+Location,TXT,Location-matthew,Matrix of word-grams occurrences,matthew,,,0.0
+Location,TXT,Location-mall,Matrix of word-grams occurrences,mall,,,0.0
+Location,TXT,Location-mason,Matrix of word-grams occurrences,mason,,,0.0
+Location,TXT,Location-maxwell,Matrix of word-grams occurrences,maxwell,,,0.0
+Location,TXT,Location-ma,Matrix of word-grams occurrences,ma,,,0.0
+Location,TXT,Location-michaelland,Matrix of word-grams occurrences,michaelland,,,0.0
+Location,TXT,Location-michaelside,Matrix of word-grams occurrences,michaelside,,,0.0
+Location,TXT,Location-michaelview,Matrix of word-grams occurrences,michaelview,,,0.0
+Location,TXT,Location-michael,Matrix of word-grams occurrences,michael,,,0.0
+Location,TXT,Location-michelle,Matrix of word-grams occurrences,michelle,,,0.0
+Location,TXT,Location-mill apt,Matrix of word-grams occurrences,mill apt,,,0.0
+Location,TXT,Location-miller,Matrix of word-grams occurrences,miller,,,0.0
+Location,TXT,Location-mills,Matrix of word-grams occurrences,mills,,,0.0
+Location,TXT,Location-mill,Matrix of word-grams occurrences,mill,,,0.0
+Location,TXT,Location-mission apt,Matrix of word-grams occurrences,mission apt,,,0.0
+Location,TXT,Location-mission,Matrix of word-grams occurrences,mission,,,0.0
+Location,TXT,Location-mitchell,Matrix of word-grams occurrences,mitchell,,,0.0
+Location,TXT,Location-mi,Matrix of word-grams occurrences,mi,,,0.0
+Location,TXT,Location-mountains apt,Matrix of word-grams occurrences,mountains apt,,,0.0
+Location,TXT,Location-mountains,Matrix of word-grams occurrences,mountains,,,0.0
+Location,TXT,Location-mountain new,Matrix of word-grams occurrences,mountain new,,,0.0
+Location,TXT,Location-mountain,Matrix of word-grams occurrences,mountain,,,0.0
+Location,TXT,Location-mount,Matrix of word-grams occurrences,mount,,,0.0
+Location,TXT,Location-monicaport,Matrix of word-grams occurrences,monicaport,,,0.0
+Location,TXT,Location-motorway,Matrix of word-grams occurrences,motorway,,,0.0
+Location,TXT,Location-mo,Matrix of word-grams occurrences,mo,,,0.0
+Location,TXT,Location-meadows suite,Matrix of word-grams occurrences,meadows suite,,,0.0
+Location,TXT,Location-meadows,Matrix of word-grams occurrences,meadows,,,0.0
+Location,TXT,Location-megan,Matrix of word-grams occurrences,megan,,,0.0
+Location,TXT,Location-melissa,Matrix of word-grams occurrences,melissa,,,0.0
+Location,TXT,Location-mews,Matrix of word-grams occurrences,mews,,,0.0
+Location,TXT,Location-me,Matrix of word-grams occurrences,me,,,0.0
+Location,TXT,Location-mcdonald,Matrix of word-grams occurrences,mcdonald,,,0.0
+Location,TXT,Location-mcdowell,Matrix of word-grams occurrences,mcdowell,,,0.0
+Location,TXT,Location-md,Matrix of word-grams occurrences,md,,,0.0
+Location,TXT,Location-mh,Matrix of word-grams occurrences,mh,,,0.0
+Location,TXT,Location-mn,Matrix of word-grams occurrences,mn,,,0.0
+Location,TXT,Location-mp,Matrix of word-grams occurrences,mp,,,0.0
+Location,TXT,Location-ms,Matrix of word-grams occurrences,ms,,,0.0
+Location,TXT,Location-mt,Matrix of word-grams occurrences,mt,,,0.0
+Location,TXT,Location-parks apt,Matrix of word-grams occurrences,parks apt,,,0.0
+Location,TXT,Location-parks,Matrix of word-grams occurrences,parks,,,0.0
+Location,TXT,Location-parker,Matrix of word-grams occurrences,parker,,,0.0
+Location,TXT,Location-parkways,Matrix of word-grams occurrences,parkways,,,0.0
+Location,TXT,Location-park,Matrix of word-grams occurrences,park,,,0.0
+Location,TXT,Location-passage apt,Matrix of word-grams occurrences,passage apt,,,0.0
+Location,TXT,Location-passage,Matrix of word-grams occurrences,passage,,,0.0
+Location,TXT,Location-pass,Matrix of word-grams occurrences,pass,,,0.0
+Location,TXT,Location-paula,Matrix of word-grams occurrences,paula,,,0.0
+Location,TXT,Location-paul,Matrix of word-grams occurrences,paul,,,0.0
+Location,TXT,Location-patricia,Matrix of word-grams occurrences,patricia,,,0.0
+Location,TXT,Location-pa,Matrix of word-grams occurrences,pa,,,0.0
+Location,TXT,Location-port apt,Matrix of word-grams occurrences,port apt,,,0.0
+Location,TXT,Location-port elizabeth,Matrix of word-grams occurrences,port elizabeth,,,0.0
+Location,TXT,Location-port michaelview,Matrix of word-grams occurrences,port michaelview,,,0.0
+Location,TXT,Location-ports apt,Matrix of word-grams occurrences,ports apt,,,0.0
+Location,TXT,Location-ports suite,Matrix of word-grams occurrences,ports suite,,,0.0
+Location,TXT,Location-ports,Matrix of word-grams occurrences,ports,,,0.0
+Location,TXT,Location-port,Matrix of word-grams occurrences,port,,,0.0
+Location,TXT,Location-point suite,Matrix of word-grams occurrences,point suite,,,0.0
+Location,TXT,Location-points,Matrix of word-grams occurrences,points,,,0.0
+Location,TXT,Location-point,Matrix of word-grams occurrences,point,,,0.0
+Location,TXT,Location-powell,Matrix of word-grams occurrences,powell,,,0.0
+Location,TXT,Location-plains apt,Matrix of word-grams occurrences,plains apt,,,0.0
+Location,TXT,Location-plains,Matrix of word-grams occurrences,plains,,,0.0
+Location,TXT,Location-plain suite,Matrix of word-grams occurrences,plain suite,,,0.0
+Location,TXT,Location-plain,Matrix of word-grams occurrences,plain,,,0.0
+Location,TXT,Location-place apt,Matrix of word-grams occurrences,place apt,,,0.0
+Location,TXT,Location-place lake,Matrix of word-grams occurrences,place lake,,,0.0
+Location,TXT,Location-place,Matrix of word-grams occurrences,place,,,0.0
+Location,TXT,Location-plaza apt,Matrix of word-grams occurrences,plaza apt,,,0.0
+Location,TXT,Location-plaza,Matrix of word-grams occurrences,plaza,,,0.0
+Location,TXT,Location-pine apt,Matrix of word-grams occurrences,pine apt,,,0.0
+Location,TXT,Location-pines,Matrix of word-grams occurrences,pines,,,0.0
+Location,TXT,Location-pine,Matrix of word-grams occurrences,pine,,,0.0
+Location,TXT,Location-pike,Matrix of word-grams occurrences,pike,,,0.0
+Location,TXT,Location-perry fpo,Matrix of word-grams occurrences,perry fpo,,,0.0
+Location,TXT,Location-perry,Matrix of word-grams occurrences,perry,,,0.0
+Location,TXT,Location-perez,Matrix of word-grams occurrences,perez,,,0.0
+Location,TXT,Location-prairie apt,Matrix of word-grams occurrences,prairie apt,,,0.0
+Location,TXT,Location-prairie,Matrix of word-grams occurrences,prairie,,,0.0
+Location,TXT,Location-pr,Matrix of word-grams occurrences,pr,,,0.0
+Location,TXT,Location-phillips,Matrix of word-grams occurrences,phillips,,,0.0
+Location,TXT,Location-psc,Matrix of word-grams occurrences,psc,,,0.0
+Location,TXT,Location-pw,Matrix of word-grams occurrences,pw,,,0.0
+Location,TXT,Location-road south,Matrix of word-grams occurrences,road south,,,0.0
+Location,TXT,Location-road suite,Matrix of word-grams occurrences,road suite,,,0.0
+Location,TXT,Location-road apt,Matrix of word-grams occurrences,road apt,,,0.0
+Location,TXT,Location-roads,Matrix of word-grams occurrences,roads,,,0.0
+Location,TXT,Location-road,Matrix of word-grams occurrences,road,,,0.0
+Location,TXT,Location-robertshire,Matrix of word-grams occurrences,robertshire,,,0.0
+Location,TXT,Location-robertview,Matrix of word-grams occurrences,robertview,,,0.0
+Location,TXT,Location-robert,Matrix of word-grams occurrences,robert,,,0.0
+Location,TXT,Location-robinson,Matrix of word-grams occurrences,robinson,,,0.0
+Location,TXT,Location-rodriguez,Matrix of word-grams occurrences,rodriguez,,,0.0
+Location,TXT,Location-ronald,Matrix of word-grams occurrences,ronald,,,0.0
+Location,TXT,Location-ross,Matrix of word-grams occurrences,ross,,,0.0
+Location,TXT,Location-route,Matrix of word-grams occurrences,route,,,0.0
+Location,TXT,Location-row,Matrix of word-grams occurrences,row,,,0.0
+Location,TXT,Location-ridge suite,Matrix of word-grams occurrences,ridge suite,,,0.0
+Location,TXT,Location-ridges,Matrix of word-grams occurrences,ridges,,,0.0
+Location,TXT,Location-ridge,Matrix of word-grams occurrences,ridge,,,0.0
+Location,TXT,Location-river suite,Matrix of word-grams occurrences,river suite,,,0.0
+Location,TXT,Location-rivera,Matrix of word-grams occurrences,rivera,,,0.0
+Location,TXT,Location-river,Matrix of word-grams occurrences,river,,,0.0
+Location,TXT,Location-richard,Matrix of word-grams occurrences,richard,,,0.0
+Location,TXT,Location-ricky,Matrix of word-grams occurrences,ricky,,,0.0
+Location,TXT,Location-riley,Matrix of word-grams occurrences,riley,,,0.0
+Location,TXT,Location-ri,Matrix of word-grams occurrences,ri,,,0.0
+Location,TXT,Location-ranch,Matrix of word-grams occurrences,ranch,,,0.0
+Location,TXT,Location-randy,Matrix of word-grams occurrences,randy,,,0.0
+Location,TXT,Location-rapids,Matrix of word-grams occurrences,rapids,,,0.0
+Location,TXT,Location-rapid,Matrix of word-grams occurrences,rapid,,,0.0
+Location,TXT,Location-rachel,Matrix of word-grams occurrences,rachel,,,0.0
+Location,TXT,Location-radial,Matrix of word-grams occurrences,radial,,,0.0
+Location,TXT,Location-ramp,Matrix of word-grams occurrences,ramp,,,0.0
+Location,TXT,Location-rest apt,Matrix of word-grams occurrences,rest apt,,,0.0
+Location,TXT,Location-rest,Matrix of word-grams occurrences,rest,,,0.0
+Location,TXT,Location-rebecca,Matrix of word-grams occurrences,rebecca,,,0.0
+Location,TXT,Location-run apt,Matrix of word-grams occurrences,run apt,,,0.0
+Location,TXT,Location-run,Matrix of word-grams occurrences,run,,,0.0
+Location,TXT,Location-rue,Matrix of word-grams occurrences,rue,,,0.0
+Location,TXT,Location-ryan,Matrix of word-grams occurrences,ryan,,,0.0
+Location,TXT,Location-bridge apt,Matrix of word-grams occurrences,bridge apt,,,0.0
+Location,TXT,Location-bridge,Matrix of word-grams occurrences,bridge,,,0.0
+Location,TXT,Location-brianmouth,Matrix of word-grams occurrences,brianmouth,,,0.0
+Location,TXT,Location-brittany,Matrix of word-grams occurrences,brittany,,,0.0
+Location,TXT,Location-brook suite,Matrix of word-grams occurrences,brook suite,,,0.0
+Location,TXT,Location-brooks,Matrix of word-grams occurrences,brooks,,,0.0
+Location,TXT,Location-brook,Matrix of word-grams occurrences,brook,,,0.0
+Location,TXT,Location-brown,Matrix of word-grams occurrences,brown,,,0.0
+Location,TXT,Location-bradleyberg,Matrix of word-grams occurrences,bradleyberg,,,0.0
+Location,TXT,Location-brandon,Matrix of word-grams occurrences,brandon,,,0.0
+Location,TXT,Location-brenda,Matrix of word-grams occurrences,brenda,,,0.0
+Location,TXT,Location-benjamin,Matrix of word-grams occurrences,benjamin,,,0.0
+Location,TXT,Location-bennett,Matrix of word-grams occurrences,bennett,,,0.0
+Location,TXT,Location-beasley,Matrix of word-grams occurrences,beasley,,,0.0
+Location,TXT,Location-becker,Matrix of word-grams occurrences,becker,,,0.0
+Location,TXT,Location-bell,Matrix of word-grams occurrences,bell,,,0.0
+Location,TXT,Location-burg suite,Matrix of word-grams occurrences,burg suite,,,0.0
+Location,TXT,Location-burgs,Matrix of word-grams occurrences,burgs,,,0.0
+Location,TXT,Location-burg,Matrix of word-grams occurrences,burg,,,0.0
+Location,TXT,Location-burns,Matrix of word-grams occurrences,burns,,,0.0
+Location,TXT,Location-butler,Matrix of word-grams occurrences,butler,,,0.0
+Location,TXT,Location-barbara,Matrix of word-grams occurrences,barbara,,,0.0
+Location,TXT,Location-barnes,Matrix of word-grams occurrences,barnes,,,0.0
+Location,TXT,Location-bailey,Matrix of word-grams occurrences,bailey,,,0.0
+Location,TXT,Location-baker,Matrix of word-grams occurrences,baker,,,0.0
+Location,TXT,Location-bypass suite,Matrix of word-grams occurrences,bypass suite,,,0.0
+Location,TXT,Location-bypass,Matrix of word-grams occurrences,bypass,,,0.0
+Location,TXT,Location-byrd,Matrix of word-grams occurrences,byrd,,,0.0
+Location,TXT,Location-booth,Matrix of word-grams occurrences,booth,,,0.0
+Location,TXT,Location-box,Matrix of word-grams occurrences,box,,,0.0
+Location,TXT,Location-blake,Matrix of word-grams occurrences,blake,,,0.0
+Location,TXT,Location-lake michael,Matrix of word-grams occurrences,lake michael,,,0.0
+Location,TXT,Location-lake nathan,Matrix of word-grams occurrences,lake nathan,,,0.0
+Location,TXT,Location-lake suite,Matrix of word-grams occurrences,lake suite,,,0.0
+Location,TXT,Location-lakes,Matrix of word-grams occurrences,lakes,,,0.0
+Location,TXT,Location-lake,Matrix of word-grams occurrences,lake,,,0.0
+Location,TXT,Location-landing,Matrix of word-grams occurrences,landing,,,0.0
+Location,TXT,Location-lane,Matrix of word-grams occurrences,lane,,,0.0
+Location,TXT,Location-laura,Matrix of word-grams occurrences,laura,,,0.0
+Location,TXT,Location-laurie,Matrix of word-grams occurrences,laurie,,,0.0
+Location,TXT,Location-lawson,Matrix of word-grams occurrences,lawson,,,0.0
+Location,TXT,Location-la,Matrix of word-grams occurrences,la,,,0.0
+Location,TXT,Location-locks apt,Matrix of word-grams occurrences,locks apt,,,0.0
+Location,TXT,Location-locks suite,Matrix of word-grams occurrences,locks suite,,,0.0
+Location,TXT,Location-locks,Matrix of word-grams occurrences,locks,,,0.0
+Location,TXT,Location-lock suite,Matrix of word-grams occurrences,lock suite,,,0.0
+Location,TXT,Location-lock,Matrix of word-grams occurrences,lock,,,0.0
+Location,TXT,Location-lodge apt,Matrix of word-grams occurrences,lodge apt,,,0.0
+Location,TXT,Location-lodge suite,Matrix of word-grams occurrences,lodge suite,,,0.0
+Location,TXT,Location-lodge,Matrix of word-grams occurrences,lodge,,,0.0
+Location,TXT,Location-loaf,Matrix of word-grams occurrences,loaf,,,0.0
+Location,TXT,Location-loop,Matrix of word-grams occurrences,loop,,,0.0
+Location,TXT,Location-lopez,Matrix of word-grams occurrences,lopez,,,0.0
+Location,TXT,Location-lindsay,Matrix of word-grams occurrences,lindsay,,,0.0
+Location,TXT,Location-lindsey,Matrix of word-grams occurrences,lindsey,,,0.0
+Location,TXT,Location-linda,Matrix of word-grams occurrences,linda,,,0.0
+Location,TXT,Location-lights suite,Matrix of word-grams occurrences,lights suite,,,0.0
+Location,TXT,Location-lights,Matrix of word-grams occurrences,lights,,,0.0
+Location,TXT,Location-lisa,Matrix of word-grams occurrences,lisa,,,0.0
+Location,TXT,Location-lee,Matrix of word-grams occurrences,lee,,,0.0
+Location,TXT,Location-lewis,Matrix of word-grams occurrences,lewis,,,0.0
+Location,TXT,Location-luke,Matrix of word-grams occurrences,luke,,,0.0
+Location,TXT,Location-danielle,Matrix of word-grams occurrences,danielle,,,0.0
+Location,TXT,Location-daniel,Matrix of word-grams occurrences,daniel,,,0.0
+Location,TXT,Location-dana,Matrix of word-grams occurrences,dana,,,0.0
+Location,TXT,Location-davidside,Matrix of word-grams occurrences,davidside,,,0.0
+Location,TXT,Location-david,Matrix of word-grams occurrences,david,,,0.0
+Location,TXT,Location-davis,Matrix of word-grams occurrences,davis,,,0.0
+Location,TXT,Location-dale,Matrix of word-grams occurrences,dale,,,0.0
+Location,TXT,Location-dam,Matrix of word-grams occurrences,dam,,,0.0
+Location,TXT,Location-day,Matrix of word-grams occurrences,day,,,0.0
+Location,TXT,Location-diana,Matrix of word-grams occurrences,diana,,,0.0
+Location,TXT,Location-diane,Matrix of word-grams occurrences,diane,,,0.0
+Location,TXT,Location-diaz,Matrix of word-grams occurrences,diaz,,,0.0
+Location,TXT,Location-divide suite,Matrix of word-grams occurrences,divide suite,,,0.0
+Location,TXT,Location-divide,Matrix of word-grams occurrences,divide,,,0.0
+Location,TXT,Location-deborah,Matrix of word-grams occurrences,deborah,,,0.0
+Location,TXT,Location-debra,Matrix of word-grams occurrences,debra,,,0.0
+Location,TXT,Location-denise,Matrix of word-grams occurrences,denise,,,0.0
+Location,TXT,Location-de,Matrix of word-grams occurrences,de,,,0.0
+Location,TXT,Location-dpo aa,Matrix of word-grams occurrences,dpo aa,,,0.0
+Location,TXT,Location-dpo ae,Matrix of word-grams occurrences,dpo ae,,,0.0
+Location,TXT,Location-dpo ap,Matrix of word-grams occurrences,dpo ap,,,0.0
+Location,TXT,Location-dpo,Matrix of word-grams occurrences,dpo,,,0.0
+Location,TXT,Location-drive apt,Matrix of word-grams occurrences,drive apt,,,0.0
+Location,TXT,Location-drive suite,Matrix of word-grams occurrences,drive suite,,,0.0
+Location,TXT,Location-drives,Matrix of word-grams occurrences,drives,,,0.0
+Location,TXT,Location-drive,Matrix of word-grams occurrences,drive,,,0.0
+Location,TXT,Location-donald,Matrix of word-grams occurrences,donald,,,0.0
+Location,TXT,Location-douglas,Matrix of word-grams occurrences,douglas,,,0.0
+Location,TXT,Location-dc,Matrix of word-grams occurrences,dc,,,0.0
+Location,TXT,Location-dunn,Matrix of word-grams occurrences,dunn,,,0.0
+Location,TXT,Location-fords suite,Matrix of word-grams occurrences,fords suite,,,0.0
+Location,TXT,Location-fords,Matrix of word-grams occurrences,fords,,,0.0
+Location,TXT,Location-ford east,Matrix of word-grams occurrences,ford east,,,0.0
+Location,TXT,Location-ford,Matrix of word-grams occurrences,ford,,,0.0
+Location,TXT,Location-forge suite,Matrix of word-grams occurrences,forge suite,,,0.0
+Location,TXT,Location-forges,Matrix of word-grams occurrences,forges,,,0.0
+Location,TXT,Location-forge,Matrix of word-grams occurrences,forge,,,0.0
+Location,TXT,Location-forks,Matrix of word-grams occurrences,forks,,,0.0
+Location,TXT,Location-fork,Matrix of word-grams occurrences,fork,,,0.0
+Location,TXT,Location-fort suite,Matrix of word-grams occurrences,fort suite,,,0.0
+Location,TXT,Location-fort,Matrix of word-grams occurrences,fort,,,0.0
+Location,TXT,Location-falls apt,Matrix of word-grams occurrences,falls apt,,,0.0
+Location,TXT,Location-falls suite,Matrix of word-grams occurrences,falls suite,,,0.0
+Location,TXT,Location-falls,Matrix of word-grams occurrences,falls,,,0.0
+Location,TXT,Location-fall,Matrix of word-grams occurrences,fall,,,0.0
+Location,TXT,Location-fpo aa,Matrix of word-grams occurrences,fpo aa,,,0.0
+Location,TXT,Location-fpo ae,Matrix of word-grams occurrences,fpo ae,,,0.0
+Location,TXT,Location-fpo ap,Matrix of word-grams occurrences,fpo ap,,,0.0
+Location,TXT,Location-fpo,Matrix of word-grams occurrences,fpo,,,0.0
+Location,TXT,Location-field apt,Matrix of word-grams occurrences,field apt,,,0.0
+Location,TXT,Location-fields,Matrix of word-grams occurrences,fields,,,0.0
+Location,TXT,Location-field,Matrix of word-grams occurrences,field,,,0.0
+Location,TXT,Location-flats,Matrix of word-grams occurrences,flats,,,0.0
+Location,TXT,Location-flat,Matrix of word-grams occurrences,flat,,,0.0
+Location,TXT,Location-fl,Matrix of word-grams occurrences,fl,,,0.0
+Location,TXT,Location-freeway apt,Matrix of word-grams occurrences,freeway apt,,,0.0
+Location,TXT,Location-freeway,Matrix of word-grams occurrences,freeway,,,0.0
+Location,TXT,Location-ferguson,Matrix of word-grams occurrences,ferguson,,,0.0
+Location,TXT,Location-fm,Matrix of word-grams occurrences,fm,,,0.0
+Location,TXT,Location-fuller,Matrix of word-grams occurrences,fuller,,,0.0
+Location,TXT,Location-jamestown,Matrix of word-grams occurrences,jamestown,,,0.0
+Location,TXT,Location-james,Matrix of word-grams occurrences,james,,,0.0
+Location,TXT,Location-jamie,Matrix of word-grams occurrences,jamie,,,0.0
+Location,TXT,Location-jasonshire,Matrix of word-grams occurrences,jasonshire,,,0.0
+Location,TXT,Location-jason,Matrix of word-grams occurrences,jason,,,0.0
+Location,TXT,Location-jasmine,Matrix of word-grams occurrences,jasmine,,,0.0
+Location,TXT,Location-jackson,Matrix of word-grams occurrences,jackson,,,0.0
+Location,TXT,Location-jacob,Matrix of word-grams occurrences,jacob,,,0.0
+Location,TXT,Location-jared,Matrix of word-grams occurrences,jared,,,0.0
+Location,TXT,Location-josephfort,Matrix of word-grams occurrences,josephfort,,,0.0
+Location,TXT,Location-josephhaven,Matrix of word-grams occurrences,josephhaven,,,0.0
+Location,TXT,Location-joseph,Matrix of word-grams occurrences,joseph,,,0.0
+Location,TXT,Location-joshua,Matrix of word-grams occurrences,joshua,,,0.0
+Location,TXT,Location-johnson,Matrix of word-grams occurrences,johnson,,,0.0
+Location,TXT,Location-john,Matrix of word-grams occurrences,john,,,0.0
+Location,TXT,Location-jonathan,Matrix of word-grams occurrences,jonathan,,,0.0
+Location,TXT,Location-jones,Matrix of word-grams occurrences,jones,,,0.0
+Location,TXT,Location-joel,Matrix of word-grams occurrences,joel,,,0.0
+Location,TXT,Location-jenniferfort,Matrix of word-grams occurrences,jenniferfort,,,0.0
+Location,TXT,Location-jennifermouth,Matrix of word-grams occurrences,jennifermouth,,,0.0
+Location,TXT,Location-jennifer,Matrix of word-grams occurrences,jennifer,,,0.0
+Location,TXT,Location-jensen,Matrix of word-grams occurrences,jensen,,,0.0
+Location,TXT,Location-jeffrey,Matrix of word-grams occurrences,jeffrey,,,0.0
+Location,TXT,Location-jeremy,Matrix of word-grams occurrences,jeremy,,,0.0
+Location,TXT,Location-jessica,Matrix of word-grams occurrences,jessica,,,0.0
+Location,TXT,Location-juan,Matrix of word-grams occurrences,juan,,,0.0
+Location,TXT,Location-julie,Matrix of word-grams occurrences,julie,,,0.0
+Location,TXT,Location-junctions,Matrix of word-grams occurrences,junctions,,,0.0
+Location,TXT,Location-justin,Matrix of word-grams occurrences,justin,,,0.0
+Location,TXT,Location-ways apt,Matrix of word-grams occurrences,ways apt,,,0.0
+Location,TXT,Location-ways suite,Matrix of word-grams occurrences,ways suite,,,0.0
+Location,TXT,Location-ways,Matrix of word-grams occurrences,ways,,,0.0
+Location,TXT,Location-way suite,Matrix of word-grams occurrences,way suite,,,0.0
+Location,TXT,Location-way,Matrix of word-grams occurrences,way,,,0.0
+Location,TXT,Location-walks apt,Matrix of word-grams occurrences,walks apt,,,0.0
+Location,TXT,Location-walks,Matrix of word-grams occurrences,walks,,,0.0
+Location,TXT,Location-walker,Matrix of word-grams occurrences,walker,,,0.0
+Location,TXT,Location-ward,Matrix of word-grams occurrences,ward,,,0.0
+Location,TXT,Location-wa,Matrix of word-grams occurrences,wa,,,0.0
+Location,TXT,Location-west courtney,Matrix of word-grams occurrences,west courtney,,,0.0
+Location,TXT,Location-west jessica,Matrix of word-grams occurrences,west jessica,,,0.0
+Location,TXT,Location-west ryan,Matrix of word-grams occurrences,west ryan,,,0.0
+Location,TXT,Location-west,Matrix of word-grams occurrences,west,,,0.0
+Location,TXT,Location-wesley,Matrix of word-grams occurrences,wesley,,,0.0
+Location,TXT,Location-wells suite,Matrix of word-grams occurrences,wells suite,,,0.0
+Location,TXT,Location-wells,Matrix of word-grams occurrences,wells,,,0.0
+Location,TXT,Location-william square,Matrix of word-grams occurrences,william square,,,0.0
+Location,TXT,Location-williamfurt,Matrix of word-grams occurrences,williamfurt,,,0.0
+Location,TXT,Location-williams,Matrix of word-grams occurrences,williams,,,0.0
+Location,TXT,Location-william,Matrix of word-grams occurrences,william,,,0.0
+Location,TXT,Location-wiley,Matrix of word-grams occurrences,wiley,,,0.0
+Location,TXT,Location-wilson,Matrix of word-grams occurrences,wilson,,,0.0
+Location,TXT,Location-wi,Matrix of word-grams occurrences,wi,,,0.0
+Location,TXT,Location-wright loop,Matrix of word-grams occurrences,wright loop,,,0.0
+Location,TXT,Location-wright,Matrix of word-grams occurrences,wright,,,0.0
+Location,TXT,Location-wv,Matrix of word-grams occurrences,wv,,,0.0
+Location,TXT,Location-wy,Matrix of word-grams occurrences,wy,,,0.0
+Location,TXT,Location-132 lake,Matrix of word-grams occurrences,132 lake,,,0.0
+Location,TXT,Location-1322,Matrix of word-grams occurrences,1322,,,0.0
+Location,TXT,Location-132,Matrix of word-grams occurrences,132,,,0.0
+Location,TXT,Location-1317,Matrix of word-grams occurrences,1317,,,0.0
+Location,TXT,Location-133,Matrix of word-grams occurrences,133,,,0.0
+Location,TXT,Location-1384,Matrix of word-grams occurrences,1384,,,0.0
+Location,TXT,Location-1005,Matrix of word-grams occurrences,1005,,,0.0
+Location,TXT,Location-107,Matrix of word-grams occurrences,107,,,0.0
+Location,TXT,Location-108,Matrix of word-grams occurrences,108,,,0.0
+Location,TXT,Location-112,Matrix of word-grams occurrences,112,,,0.0
+Location,TXT,Location-115,Matrix of word-grams occurrences,115,,,0.0
+Location,TXT,Location-118,Matrix of word-grams occurrences,118,,,0.0
+Location,TXT,Location-143,Matrix of word-grams occurrences,143,,,0.0
+Location,TXT,Location-145,Matrix of word-grams occurrences,145,,,0.0
+Location,TXT,Location-147,Matrix of word-grams occurrences,147,,,0.0
+Location,TXT,Location-12062,Matrix of word-grams occurrences,12062,,,0.0
+Location,TXT,Location-123,Matrix of word-grams occurrences,123,,,0.0
+Location,TXT,Location-1547,Matrix of word-grams occurrences,1547,,,0.0
+Location,TXT,Location-158,Matrix of word-grams occurrences,158,,,0.0
+Location,TXT,Location-162,Matrix of word-grams occurrences,162,,,0.0
+Location,TXT,Location-169,Matrix of word-grams occurrences,169,,,0.0
+Location,TXT,Location-176,Matrix of word-grams occurrences,176,,,0.0
+Location,TXT,Location-1774,Matrix of word-grams occurrences,1774,,,0.0
+Location,TXT,Location-180,Matrix of word-grams occurrences,180,,,0.0
+Location,TXT,Location-186,Matrix of word-grams occurrences,186,,,0.0
+Location,TXT,Location-19037,Matrix of word-grams occurrences,19037,,,0.0
+Location,TXT,Location-2030,Matrix of word-grams occurrences,2030,,,0.0
+Location,TXT,Location-2039,Matrix of word-grams occurrences,2039,,,0.0
+Location,TXT,Location-2091,Matrix of word-grams occurrences,2091,,,0.0
+Location,TXT,Location-209,Matrix of word-grams occurrences,209,,,0.0
+Location,TXT,Location-202,Matrix of word-grams occurrences,202,,,0.0
+Location,TXT,Location-205,Matrix of word-grams occurrences,205,,,0.0
+Location,TXT,Location-26077,Matrix of word-grams occurrences,26077,,,0.0
+Location,TXT,Location-264,Matrix of word-grams occurrences,264,,,0.0
+Location,TXT,Location-269,Matrix of word-grams occurrences,269,,,0.0
+Location,TXT,Location-2923,Matrix of word-grams occurrences,2923,,,0.0
+Location,TXT,Location-2978,Matrix of word-grams occurrences,2978,,,0.0
+Location,TXT,Location-299,Matrix of word-grams occurrences,299,,,0.0
+Location,TXT,Location-210,Matrix of word-grams occurrences,210,,,0.0
+Location,TXT,Location-215,Matrix of word-grams occurrences,215,,,0.0
+Location,TXT,Location-226,Matrix of word-grams occurrences,226,,,0.0
+Location,TXT,Location-227,Matrix of word-grams occurrences,227,,,0.0
+Location,TXT,Location-2416,Matrix of word-grams occurrences,2416,,,0.0
+Location,TXT,Location-2490,Matrix of word-grams occurrences,2490,,,0.0
+Location,TXT,Location-2529,Matrix of word-grams occurrences,2529,,,0.0
+Location,TXT,Location-253,Matrix of word-grams occurrences,253,,,0.0
+Location,TXT,Location-2804,Matrix of word-grams occurrences,2804,,,0.0
+Location,TXT,Location-281,Matrix of word-grams occurrences,281,,,0.0
+Location,TXT,Location-2311,Matrix of word-grams occurrences,2311,,,0.0
+Location,TXT,Location-275,Matrix of word-grams occurrences,275,,,0.0
+Location,TXT,Location-3035,Matrix of word-grams occurrences,3035,,,0.0
+Location,TXT,Location-303,Matrix of word-grams occurrences,303,,,0.0
+Location,TXT,Location-3028,Matrix of word-grams occurrences,3028,,,0.0
+Location,TXT,Location-3040,Matrix of word-grams occurrences,3040,,,0.0
+Location,TXT,Location-308,Matrix of word-grams occurrences,308,,,0.0
+Location,TXT,Location-331 west,Matrix of word-grams occurrences,331 west,,,0.0
+Location,TXT,Location-331,Matrix of word-grams occurrences,331,,,0.0
+Location,TXT,Location-335,Matrix of word-grams occurrences,335,,,0.0
+Location,TXT,Location-339,Matrix of word-grams occurrences,339,,,0.0
+Location,TXT,Location-385 west,Matrix of word-grams occurrences,385 west,,,0.0
+Location,TXT,Location-385,Matrix of word-grams occurrences,385,,,0.0
+Location,TXT,Location-3807,Matrix of word-grams occurrences,3807,,,0.0
+Location,TXT,Location-388,Matrix of word-grams occurrences,388,,,0.0
+Location,TXT,Location-350,Matrix of word-grams occurrences,350,,,0.0
+Location,TXT,Location-353,Matrix of word-grams occurrences,353,,,0.0
+Location,TXT,Location-356,Matrix of word-grams occurrences,356,,,0.0
+Location,TXT,Location-341,Matrix of word-grams occurrences,341,,,0.0
+Location,TXT,Location-342,Matrix of word-grams occurrences,342,,,0.0
+Location,TXT,Location-393,Matrix of word-grams occurrences,393,,,0.0
+Location,TXT,Location-399,Matrix of word-grams occurrences,399,,,0.0
+Location,TXT,Location-310,Matrix of word-grams occurrences,310,,,0.0
+Location,TXT,Location-323,Matrix of word-grams occurrences,323,,,0.0
+Location,TXT,Location-363,Matrix of word-grams occurrences,363,,,0.0
+Location,TXT,Location-375,Matrix of word-grams occurrences,375,,,0.0
+Location,TXT,Location-6413,Matrix of word-grams occurrences,6413,,,0.0
+Location,TXT,Location-6431,Matrix of word-grams occurrences,6431,,,0.0
+Location,TXT,Location-645,Matrix of word-grams occurrences,645,,,0.0
+Location,TXT,Location-6480,Matrix of word-grams occurrences,6480,,,0.0
+Location,TXT,Location-605,Matrix of word-grams occurrences,605,,,0.0
+Location,TXT,Location-606,Matrix of word-grams occurrences,606,,,0.0
+Location,TXT,Location-6097,Matrix of word-grams occurrences,6097,,,0.0
+Location,TXT,Location-614,Matrix of word-grams occurrences,614,,,0.0
+Location,TXT,Location-6155,Matrix of word-grams occurrences,6155,,,0.0
+Location,TXT,Location-6187,Matrix of word-grams occurrences,6187,,,0.0
+Location,TXT,Location-6720,Matrix of word-grams occurrences,6720,,,0.0
+Location,TXT,Location-675,Matrix of word-grams occurrences,675,,,0.0
+Location,TXT,Location-678,Matrix of word-grams occurrences,678,,,0.0
+Location,TXT,Location-6339,Matrix of word-grams occurrences,6339,,,0.0
+Location,TXT,Location-636,Matrix of word-grams occurrences,636,,,0.0
+Location,TXT,Location-653,Matrix of word-grams occurrences,653,,,0.0
+Location,TXT,Location-6571,Matrix of word-grams occurrences,6571,,,0.0
+Location,TXT,Location-665,Matrix of word-grams occurrences,665,,,0.0
+Location,TXT,Location-668,Matrix of word-grams occurrences,668,,,0.0
+Location,TXT,Location-68644,Matrix of word-grams occurrences,68644,,,0.0
+Location,TXT,Location-6882,Matrix of word-grams occurrences,6882,,,0.0
+Location,TXT,Location-62096,Matrix of word-grams occurrences,62096,,,0.0
+Location,TXT,Location-693,Matrix of word-grams occurrences,693,,,0.0
+Location,TXT,Location-trace apt,Matrix of word-grams occurrences,trace apt,,,0.0
+Location,TXT,Location-trace,Matrix of word-grams occurrences,trace,,,0.0
+Location,TXT,Location-trail apt,Matrix of word-grams occurrences,trail apt,,,0.0
+Location,TXT,Location-trail,Matrix of word-grams occurrences,trail,,,0.0
+Location,TXT,Location-trafficway,Matrix of word-grams occurrences,trafficway,,,0.0
+Location,TXT,Location-travis,Matrix of word-grams occurrences,travis,,,0.0
+Location,TXT,Location-thomas,Matrix of word-grams occurrences,thomas,,,0.0
+Location,TXT,Location-thompson,Matrix of word-grams occurrences,thompson,,,0.0
+Location,TXT,Location-theresa,Matrix of word-grams occurrences,theresa,,,0.0
+Location,TXT,Location-throughway,Matrix of word-grams occurrences,throughway,,,0.0
+Location,TXT,Location-tunnel apt,Matrix of word-grams occurrences,tunnel apt,,,0.0
+Location,TXT,Location-tunnel suite,Matrix of word-grams occurrences,tunnel suite,,,0.0
+Location,TXT,Location-tunnel,Matrix of word-grams occurrences,tunnel,,,0.0
+Location,TXT,Location-turnpike,Matrix of word-grams occurrences,turnpike,,,0.0
+Location,TXT,Location-tara,Matrix of word-grams occurrences,tara,,,0.0
+Location,TXT,Location-taylor,Matrix of word-grams occurrences,taylor,,,0.0
+Location,TXT,Location-teresa,Matrix of word-grams occurrences,teresa,,,0.0
+Location,TXT,Location-terrace,Matrix of word-grams occurrences,terrace,,,0.0
+Location,TXT,Location-tiffanyside,Matrix of word-grams occurrences,tiffanyside,,,0.0
+Location,TXT,Location-timothy,Matrix of word-grams occurrences,timothy,,,0.0
+Location,TXT,Location-tn,Matrix of word-grams occurrences,tn,,,0.0
+Location,TXT,Location-tx,Matrix of word-grams occurrences,tx,,,0.0
+Location,TXT,Location-tyler,Matrix of word-grams occurrences,tyler,,,0.0
+Location,TXT,Location-7552,Matrix of word-grams occurrences,7552,,,0.0
+Location,TXT,Location-755,Matrix of word-grams occurrences,755,,,0.0
+Location,TXT,Location-753,Matrix of word-grams occurrences,753,,,0.0
+Location,TXT,Location-754,Matrix of word-grams occurrences,754,,,0.0
+Location,TXT,Location-7800,Matrix of word-grams occurrences,7800,,,0.0
+Location,TXT,Location-780,Matrix of word-grams occurrences,780,,,0.0
+Location,TXT,Location-7853,Matrix of word-grams occurrences,7853,,,0.0
+Location,TXT,Location-788,Matrix of word-grams occurrences,788,,,0.0
+Location,TXT,Location-701,Matrix of word-grams occurrences,701,,,0.0
+Location,TXT,Location-704,Matrix of word-grams occurrences,704,,,0.0
+Location,TXT,Location-7098,Matrix of word-grams occurrences,7098,,,0.0
+Location,TXT,Location-730,Matrix of word-grams occurrences,730,,,0.0
+Location,TXT,Location-731,Matrix of word-grams occurrences,731,,,0.0
+Location,TXT,Location-7364,Matrix of word-grams occurrences,7364,,,0.0
+Location,TXT,Location-7606,Matrix of word-grams occurrences,7606,,,0.0
+Location,TXT,Location-763,Matrix of word-grams occurrences,763,,,0.0
+Location,TXT,Location-770,Matrix of word-grams occurrences,770,,,0.0
+Location,TXT,Location-773,Matrix of word-grams occurrences,773,,,0.0
+Location,TXT,Location-793,Matrix of word-grams occurrences,793,,,0.0
+Location,TXT,Location-795,Matrix of word-grams occurrences,795,,,0.0
+Location,TXT,Location-712,Matrix of word-grams occurrences,712,,,0.0
+Location,TXT,Location-728,Matrix of word-grams occurrences,728,,,0.0
+Location,TXT,Location-village apt,Matrix of word-grams occurrences,village apt,,,0.0
+Location,TXT,Location-village suite,Matrix of word-grams occurrences,village suite,,,0.0
+Location,TXT,Location-villages,Matrix of word-grams occurrences,villages,,,0.0
+Location,TXT,Location-village,Matrix of word-grams occurrences,village,,,0.0
+Location,TXT,Location-ville apt,Matrix of word-grams occurrences,ville apt,,,0.0
+Location,TXT,Location-ville,Matrix of word-grams occurrences,ville,,,0.0
+Location,TXT,Location-vista south,Matrix of word-grams occurrences,vista south,,,0.0
+Location,TXT,Location-vista suite,Matrix of word-grams occurrences,vista suite,,,0.0
+Location,TXT,Location-vista apt,Matrix of word-grams occurrences,vista apt,,,0.0
+Location,TXT,Location-vista lake,Matrix of word-grams occurrences,vista lake,,,0.0
+Location,TXT,Location-vista,Matrix of word-grams occurrences,vista,,,0.0
+Location,TXT,Location-via suite,Matrix of word-grams occurrences,via suite,,,0.0
+Location,TXT,Location-viaduct,Matrix of word-grams occurrences,viaduct,,,0.0
+Location,TXT,Location-via,Matrix of word-grams occurrences,via,,,0.0
+Location,TXT,Location-views suite,Matrix of word-grams occurrences,views suite,,,0.0
+Location,TXT,Location-views,Matrix of word-grams occurrences,views,,,0.0
+Location,TXT,Location-vi,Matrix of word-grams occurrences,vi,,,0.0
+Location,TXT,Location-valleys,Matrix of word-grams occurrences,valleys,,,0.0
+Location,TXT,Location-valley,Matrix of word-grams occurrences,valley,,,0.0
+Location,TXT,Location-vanessa,Matrix of word-grams occurrences,vanessa,,,0.0
+Location,TXT,Location-va,Matrix of word-grams occurrences,va,,,0.0
+Location,TXT,Location-vt,Matrix of word-grams occurrences,vt,,,0.0
+Location,TXT,Location-070,Matrix of word-grams occurrences,070,,,0.0
+Location,TXT,Location-071,Matrix of word-grams occurrences,071,,,0.0
+Location,TXT,Location-073,Matrix of word-grams occurrences,073,,,0.0
+Location,TXT,Location-078,Matrix of word-grams occurrences,078,,,0.0
+Location,TXT,Location-080,Matrix of word-grams occurrences,080,,,0.0
+Location,TXT,Location-082,Matrix of word-grams occurrences,082,,,0.0
+Location,TXT,Location-087,Matrix of word-grams occurrences,087,,,0.0
+Location,TXT,Location-089,Matrix of word-grams occurrences,089,,,0.0
+Location,TXT,Location-091,Matrix of word-grams occurrences,091,,,0.0
+Location,TXT,Location-094,Matrix of word-grams occurrences,094,,,0.0
+Location,TXT,Location-097,Matrix of word-grams occurrences,097,,,0.0
+Location,TXT,Location-002,Matrix of word-grams occurrences,002,,,0.0
+Location,TXT,Location-007,Matrix of word-grams occurrences,007,,,0.0
+Location,TXT,Location-025,Matrix of word-grams occurrences,025,,,0.0
+Location,TXT,Location-026,Matrix of word-grams occurrences,026,,,0.0
+Location,TXT,Location-032,Matrix of word-grams occurrences,032,,,0.0
+Location,TXT,Location-036,Matrix of word-grams occurrences,036,,,0.0
+Location,TXT,Location-018,Matrix of word-grams occurrences,018,,,0.0
+Location,TXT,Location-044,Matrix of word-grams occurrences,044,,,0.0
+Location,TXT,Location-059,Matrix of word-grams occurrences,059,,,0.0
+Location,TXT,Location-062,Matrix of word-grams occurrences,062,,,0.0
+Location,TXT,Location-gardens suite,Matrix of word-grams occurrences,gardens suite,,,0.0
+Location,TXT,Location-gardens,Matrix of word-grams occurrences,gardens,,,0.0
+Location,TXT,Location-garden,Matrix of word-grams occurrences,garden,,,0.0
+Location,TXT,Location-garcia,Matrix of word-grams occurrences,garcia,,,0.0
+Location,TXT,Location-gateway apt,Matrix of word-grams occurrences,gateway apt,,,0.0
+Location,TXT,Location-gateway,Matrix of word-grams occurrences,gateway,,,0.0
+Location,TXT,Location-ga,Matrix of word-grams occurrences,ga,,,0.0
+Location,TXT,Location-groves apt,Matrix of word-grams occurrences,groves apt,,,0.0
+Location,TXT,Location-groves suite,Matrix of word-grams occurrences,groves suite,,,0.0
+Location,TXT,Location-groves,Matrix of word-grams occurrences,groves,,,0.0
+Location,TXT,Location-graham,Matrix of word-grams occurrences,graham,,,0.0
+Location,TXT,Location-grant,Matrix of word-grams occurrences,grant,,,0.0
+Location,TXT,Location-greens,Matrix of word-grams occurrences,greens,,,0.0
+Location,TXT,Location-gregory,Matrix of word-grams occurrences,gregory,,,0.0
+Location,TXT,Location-glenn,Matrix of word-grams occurrences,glenn,,,0.0
+Location,TXT,Location-glens,Matrix of word-grams occurrences,glens,,,0.0
+Location,TXT,Location-glen,Matrix of word-grams occurrences,glen,,,0.0
+Location,TXT,Location-gutierrez,Matrix of word-grams occurrences,gutierrez,,,0.0
+Location,TXT,Location-gu,Matrix of word-grams occurrences,gu,,,0.0
+Location,TXT,Location-george,Matrix of word-grams occurrences,george,,,0.0
+Location,TXT,Location-gonzalez,Matrix of word-grams occurrences,gonzalez,,,0.0
+Location,TXT,Location-491,Matrix of word-grams occurrences,491,,,0.0
+Location,TXT,Location-496,Matrix of word-grams occurrences,496,,,0.0
+Location,TXT,Location-4972,Matrix of word-grams occurrences,4972,,,0.0
+Location,TXT,Location-499,Matrix of word-grams occurrences,499,,,0.0
+Location,TXT,Location-4331,Matrix of word-grams occurrences,4331,,,0.0
+Location,TXT,Location-435,Matrix of word-grams occurrences,435,,,0.0
+Location,TXT,Location-437,Matrix of word-grams occurrences,437,,,0.0
+Location,TXT,Location-446,Matrix of word-grams occurrences,446,,,0.0
+Location,TXT,Location-447,Matrix of word-grams occurrences,447,,,0.0
+Location,TXT,Location-467,Matrix of word-grams occurrences,467,,,0.0
+Location,TXT,Location-4695,Matrix of word-grams occurrences,4695,,,0.0
+Location,TXT,Location-478,Matrix of word-grams occurrences,478,,,0.0
+Location,TXT,Location-479,Matrix of word-grams occurrences,479,,,0.0
+Location,TXT,Location-482,Matrix of word-grams occurrences,482,,,0.0
+Location,TXT,Location-483,Matrix of word-grams occurrences,483,,,0.0
+Location,TXT,Location-404,Matrix of word-grams occurrences,404,,,0.0
+Location,TXT,Location-419,Matrix of word-grams occurrences,419,,,0.0
+Location,TXT,Location-421,Matrix of word-grams occurrences,421,,,0.0
+Location,TXT,Location-451,Matrix of word-grams occurrences,451,,,0.0
+Location,TXT,Location-kelli,Matrix of word-grams occurrences,kelli,,,0.0
+Location,TXT,Location-kelly,Matrix of word-grams occurrences,kelly,,,0.0
+Location,TXT,Location-kennethshire,Matrix of word-grams occurrences,kennethshire,,,0.0
+Location,TXT,Location-kenneth,Matrix of word-grams occurrences,kenneth,,,0.0
+Location,TXT,Location-keys,Matrix of word-grams occurrences,keys,,,0.0
+Location,TXT,Location-key,Matrix of word-grams occurrences,key,,,0.0
+Location,TXT,Location-kevin,Matrix of word-grams occurrences,kevin,,,0.0
+Location,TXT,Location-knoll apt,Matrix of word-grams occurrences,knoll apt,,,0.0
+Location,TXT,Location-knolls,Matrix of word-grams occurrences,knolls,,,0.0
+Location,TXT,Location-knoll,Matrix of word-grams occurrences,knoll,,,0.0
+Location,TXT,Location-knight,Matrix of word-grams occurrences,knight,,,0.0
+Location,TXT,Location-kimberly ridges,Matrix of word-grams occurrences,kimberly ridges,,,0.0
+Location,TXT,Location-kimberly,Matrix of word-grams occurrences,kimberly,,,0.0
+Location,TXT,Location-king,Matrix of word-grams occurrences,king,,,0.0
+Location,TXT,Location-kyle,Matrix of word-grams occurrences,kyle,,,0.0
+Location,TXT,Location-ky,Matrix of word-grams occurrences,ky,,,0.0
+Location,TXT,Location-karen,Matrix of word-grams occurrences,karen,,,0.0
+Location,TXT,Location-kristin,Matrix of word-grams occurrences,kristin,,,0.0
+Location,TXT,Location-ks,Matrix of word-grams occurrences,ks,,,0.0
+Location,TXT,Location-neck apt,Matrix of word-grams occurrences,neck apt,,,0.0
+Location,TXT,Location-neck,Matrix of word-grams occurrences,neck,,,0.0
+Location,TXT,Location-new andrea,Matrix of word-grams occurrences,new andrea,,,0.0
+Location,TXT,Location-new,Matrix of word-grams occurrences,new,,,0.0
+Location,TXT,Location-ne,Matrix of word-grams occurrences,ne,,,0.0
+Location,TXT,Location-north jennifer,Matrix of word-grams occurrences,north jennifer,,,0.0
+Location,TXT,Location-north thomas,Matrix of word-grams occurrences,north thomas,,,0.0
+Location,TXT,Location-north,Matrix of word-grams occurrences,north,,,0.0
+Location,TXT,Location-nash,Matrix of word-grams occurrences,nash,,,0.0
+Location,TXT,Location-nathan,Matrix of word-grams occurrences,nathan,,,0.0
+Location,TXT,Location-nc,Matrix of word-grams occurrences,nc,,,0.0
+Location,TXT,Location-nd,Matrix of word-grams occurrences,nd,,,0.0
+Location,TXT,Location-nh,Matrix of word-grams occurrences,nh,,,0.0
+Location,TXT,Location-nicole,Matrix of word-grams occurrences,nicole,,,0.0
+Location,TXT,Location-nj,Matrix of word-grams occurrences,nj,,,0.0
+Location,TXT,Location-nm,Matrix of word-grams occurrences,nm,,,0.0
+Location,TXT,Location-nunez,Matrix of word-grams occurrences,nunez,,,0.0
+Location,TXT,Location-nv,Matrix of word-grams occurrences,nv,,,0.0
+Location,TXT,Location-ny,Matrix of word-grams occurrences,ny,,,0.0
+Location,TXT,Location-harbors,Matrix of word-grams occurrences,harbors,,,0.0
+Location,TXT,Location-harbor,Matrix of word-grams occurrences,harbor,,,0.0
+Location,TXT,Location-harris,Matrix of word-grams occurrences,harris,,,0.0
+Location,TXT,Location-haven apt,Matrix of word-grams occurrences,haven apt,,,0.0
+Location,TXT,Location-haven suite,Matrix of word-grams occurrences,haven suite,,,0.0
+Location,TXT,Location-haven,Matrix of word-grams occurrences,haven,,,0.0
+Location,TXT,Location-hayesburgh,Matrix of word-grams occurrences,hayesburgh,,,0.0
+Location,TXT,Location-hill apt,Matrix of word-grams occurrences,hill apt,,,0.0
+Location,TXT,Location-hill fpo,Matrix of word-grams occurrences,hill fpo,,,0.0
+Location,TXT,Location-hills,Matrix of word-grams occurrences,hills,,,0.0
+Location,TXT,Location-hill,Matrix of word-grams occurrences,hill,,,0.0
+Location,TXT,Location-highway,Matrix of word-grams occurrences,highway,,,0.0
+Location,TXT,Location-hi,Matrix of word-grams occurrences,hi,,,0.0
+Location,TXT,Location-henderson,Matrix of word-grams occurrences,henderson,,,0.0
+Location,TXT,Location-henry,Matrix of word-grams occurrences,henry,,,0.0
+Location,TXT,Location-heather,Matrix of word-grams occurrences,heather,,,0.0
+Location,TXT,Location-heights,Matrix of word-grams occurrences,heights,,,0.0
+Location,TXT,Location-hernandez,Matrix of word-grams occurrences,hernandez,,,0.0
+Location,TXT,Location-extensions new,Matrix of word-grams occurrences,extensions new,,,0.0
+Location,TXT,Location-extensions,Matrix of word-grams occurrences,extensions,,,0.0
+Location,TXT,Location-extension apt,Matrix of word-grams occurrences,extension apt,,,0.0
+Location,TXT,Location-extension,Matrix of word-grams occurrences,extension,,,0.0
+Location,TXT,Location-expressway suite,Matrix of word-grams occurrences,expressway suite,,,0.0
+Location,TXT,Location-expressway,Matrix of word-grams occurrences,expressway,,,0.0
+Location,TXT,Location-elizabeth mission,Matrix of word-grams occurrences,elizabeth mission,,,0.0
+Location,TXT,Location-elizabeth,Matrix of word-grams occurrences,elizabeth,,,0.0
+Location,TXT,Location-ellis,Matrix of word-grams occurrences,ellis,,,0.0
+Location,TXT,Location-east christopher,Matrix of word-grams occurrences,east christopher,,,0.0
+Location,TXT,Location-east,Matrix of word-grams occurrences,east,,,0.0
+Location,TXT,Location-erinmouth,Matrix of word-grams occurrences,erinmouth,,,0.0
+Location,TXT,Location-erin,Matrix of word-grams occurrences,erin,,,0.0
+Location,TXT,Location-estates,Matrix of word-grams occurrences,estates,,,0.0
+Location,TXT,Location-estate,Matrix of word-grams occurrences,estate,,,0.0
+Location,TXT,Location-edward,Matrix of word-grams occurrences,edward,,,0.0
+Location,TXT,Location-emily,Matrix of word-grams occurrences,emily,,,0.0
+Location,TXT,Location-982,Matrix of word-grams occurrences,982,,,0.0
+Location,TXT,Location-983,Matrix of word-grams occurrences,983,,,0.0
+Location,TXT,Location-984,Matrix of word-grams occurrences,984,,,0.0
+Location,TXT,Location-985,Matrix of word-grams occurrences,985,,,0.0
+Location,TXT,Location-911,Matrix of word-grams occurrences,911,,,0.0
+Location,TXT,Location-913,Matrix of word-grams occurrences,913,,,0.0
+Location,TXT,Location-914,Matrix of word-grams occurrences,914,,,0.0
+Location,TXT,Location-92778,Matrix of word-grams occurrences,92778,,,0.0
+Location,TXT,Location-927,Matrix of word-grams occurrences,927,,,0.0
+Location,TXT,Location-931,Matrix of word-grams occurrences,931,,,0.0
+Location,TXT,Location-935,Matrix of word-grams occurrences,935,,,0.0
+Location,TXT,Location-944,Matrix of word-grams occurrences,944,,,0.0
+Location,TXT,Location-946,Matrix of word-grams occurrences,946,,,0.0
+Location,TXT,Location-960,Matrix of word-grams occurrences,960,,,0.0
+Location,TXT,Location-964,Matrix of word-grams occurrences,964,,,0.0
+Location,TXT,Location-9525,Matrix of word-grams occurrences,9525,,,0.0
+Location,TXT,Location-56171,Matrix of word-grams occurrences,56171,,,0.0
+Location,TXT,Location-561,Matrix of word-grams occurrences,561,,,0.0
+Location,TXT,Location-564,Matrix of word-grams occurrences,564,,,0.0
+Location,TXT,Location-569,Matrix of word-grams occurrences,569,,,0.0
+Location,TXT,Location-571,Matrix of word-grams occurrences,571,,,0.0
+Location,TXT,Location-574,Matrix of word-grams occurrences,574,,,0.0
+Location,TXT,Location-575,Matrix of word-grams occurrences,575,,,0.0
+Location,TXT,Location-5026,Matrix of word-grams occurrences,5026,,,0.0
+Location,TXT,Location-505,Matrix of word-grams occurrences,505,,,0.0
+Location,TXT,Location-540,Matrix of word-grams occurrences,540,,,0.0
+Location,TXT,Location-543,Matrix of word-grams occurrences,543,,,0.0
+Location,TXT,Location-510,Matrix of word-grams occurrences,510,,,0.0
+Location,TXT,Location-5259,Matrix of word-grams occurrences,5259,,,0.0
+Location,TXT,Location-580,Matrix of word-grams occurrences,580,,,0.0
+Location,TXT,Location-592,Matrix of word-grams occurrences,592,,,0.0
+Location,TXT,Location-841,Matrix of word-grams occurrences,841,,,0.0
+Location,TXT,Location-842,Matrix of word-grams occurrences,842,,,0.0
+Location,TXT,Location-845,Matrix of word-grams occurrences,845,,,0.0
+Location,TXT,Location-849,Matrix of word-grams occurrences,849,,,0.0
+Location,TXT,Location-892,Matrix of word-grams occurrences,892,,,0.0
+Location,TXT,Location-895,Matrix of word-grams occurrences,895,,,0.0
+Location,TXT,Location-896,Matrix of word-grams occurrences,896,,,0.0
+Location,TXT,Location-881,Matrix of word-grams occurrences,881,,,0.0
+Location,TXT,Location-887,Matrix of word-grams occurrences,887,,,0.0
+Location,TXT,Location-802,Matrix of word-grams occurrences,802,,,0.0
+Location,TXT,Location-826,Matrix of word-grams occurrences,826,,,0.0
+Location,TXT,Location-8392,Matrix of word-grams occurrences,8392,,,0.0
+Location,TXT,Location-858,Matrix of word-grams occurrences,858,,,0.0
+Location,TXT,Location-871,Matrix of word-grams occurrences,871,,,0.0
+Location,TXT,Location-unions suite,Matrix of word-grams occurrences,unions suite,,,0.0
+Location,TXT,Location-unions,Matrix of word-grams occurrences,unions,,,0.0
+Location,TXT,Location-union,Matrix of word-grams occurrences,union,,,0.0
+Location,TXT,Location-unit,Matrix of word-grams occurrences,unit,,,0.0
+Location,TXT,Location-underpass,Matrix of word-grams occurrences,underpass,,,0.0
+Location,TXT,Location-usnv perry,Matrix of word-grams occurrences,usnv perry,,,0.0
+Location,TXT,Location-usnv,Matrix of word-grams occurrences,usnv,,,0.0
+Location,TXT,Location-usns,Matrix of word-grams occurrences,usns,,,0.0
+Location,TXT,Location-uscgc,Matrix of word-grams occurrences,uscgc,,,0.0
+Location,TXT,Location-uss,Matrix of word-grams occurrences,uss,,,0.0
+Location,TXT,Location-ut,Matrix of word-grams occurrences,ut,,,0.0
+Location,TXT,Location-islands apt,Matrix of word-grams occurrences,islands apt,,,0.0
+Location,TXT,Location-islands,Matrix of word-grams occurrences,islands,,,0.0
+Location,TXT,Location-island,Matrix of word-grams occurrences,island,,,0.0
+Location,TXT,Location-isle,Matrix of word-grams occurrences,isle,,,0.0
+Location,TXT,Location-inlet,Matrix of word-grams occurrences,inlet,,,0.0
+Location,TXT,Location-in,Matrix of word-grams occurrences,in,,,0.0
+Location,TXT,Location-ia,Matrix of word-grams occurrences,ia,,,0.0
+Location,TXT,Location-id,Matrix of word-grams occurrences,id,,,0.0
+Location,TXT,Location-il,Matrix of word-grams occurrences,il,,,0.0
+Location,TXT,Location-orchard,Matrix of word-grams occurrences,orchard,,,0.0
+Location,TXT,Location-or,Matrix of word-grams occurrences,or,,,0.0
+Location,TXT,Location-oval,Matrix of word-grams occurrences,oval,,,0.0
+Location,TXT,Location-overpass,Matrix of word-grams occurrences,overpass,,,0.0
+Location,TXT,Location-oh,Matrix of word-grams occurrences,oh,,,0.0
+Location,TXT,Location-ok,Matrix of word-grams occurrences,ok,,,0.0
+Location,TXT,Location-olson,Matrix of word-grams occurrences,olson,,,0.0
+Num_Sites,NUM,STANDARDIZED_Num_Sites,Missing imputation,8.0,Standardize,"(8,1.76385486126)",1.7248903917310077
+Onboard_date (Day of Month),NUM,STANDARDIZED_Onboard_date (Day of Month),Missing imputation,16.0,Standardize,"(16,8.89855098724)",0.014630282436348565
+Onboard_date (Day of Week),CAT,Onboard_date (Day of Week)-0,One-hot,'0',,,0.0
+Onboard_date (Day of Week),CAT,Onboard_date (Day of Week)-1,One-hot,'1',,,0.0
+Onboard_date (Day of Week),CAT,Onboard_date (Day of Week)-2,One-hot,'2',,,0.0
+Onboard_date (Day of Week),CAT,Onboard_date (Day of Week)-3,One-hot,'3',,,0.0
+Onboard_date (Day of Week),CAT,Onboard_date (Day of Week)-4,One-hot,'4',,,0.0
+Onboard_date (Day of Week),CAT,Onboard_date (Day of Week)-5,One-hot,'5',,,0.0
+Onboard_date (Day of Week),CAT,Onboard_date (Day of Week)-6,One-hot,'6',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-0,One-hot,'0',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-1,One-hot,'1',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-10,One-hot,'10',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-11,One-hot,'11',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-12,One-hot,'12',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-13,One-hot,'13',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-14,One-hot,'14',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-15,One-hot,'15',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-16,One-hot,'16',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-17,One-hot,'17',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-18,One-hot,'18',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-19,One-hot,'19',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-2,One-hot,'2',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-20,One-hot,'20',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-21,One-hot,'21',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-22,One-hot,'22',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-23,One-hot,'23',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-3,One-hot,'3',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-4,One-hot,'4',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-5,One-hot,'5',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-6,One-hot,'6',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-7,One-hot,'7',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-8,One-hot,'8',,,0.0
+Onboard_date (Hour of Day),CAT,Onboard_date (Hour of Day)-9,One-hot,'9',,,-0.006158702057185587
+Onboard_date (Month),CAT,Onboard_date (Month)-1,One-hot,'1',,,0.0
+Onboard_date (Month),CAT,Onboard_date (Month)-10,One-hot,'10',,,0.0
+Onboard_date (Month),CAT,Onboard_date (Month)-11,One-hot,'11',,,0.12267338175191789
+Onboard_date (Month),CAT,Onboard_date (Month)-12,One-hot,'12',,,0.0
+Onboard_date (Month),CAT,Onboard_date (Month)-2,One-hot,'2',,,0.0
+Onboard_date (Month),CAT,Onboard_date (Month)-3,One-hot,'3',,,0.00869750378913009
+Onboard_date (Month),CAT,Onboard_date (Month)-4,One-hot,'4',,,0.0
+Onboard_date (Month),CAT,Onboard_date (Month)-5,One-hot,'5',,,0.0
+Onboard_date (Month),CAT,Onboard_date (Month)-6,One-hot,'6',,,0.0
+Onboard_date (Month),CAT,Onboard_date (Month)-7,One-hot,'7',,,0.0
+Onboard_date (Month),CAT,Onboard_date (Month)-8,One-hot,'8',,,0.0
+Onboard_date (Month),CAT,Onboard_date (Month)-9,One-hot,'9',,,0.0
+Onboard_date (Year),NUM,STANDARDIZED_Onboard_date (Year),Missing imputation,2011.0,Standardize,"(2011,3.2054464817)",0.0
+Total_Purchase,NUM,STANDARDIZED_Total_Purchase,Missing imputation,10050.6103515625,Standardize,"(10045.8701172,2407.3059082)",0.02638453500831951
+Years,NUM,STANDARDIZED_Years,Missing imputation,5.21999979019165,Standardize,"(5.21500015259,1.27374076843)",0.5775095132722786

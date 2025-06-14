@@ -1,0 +1,67 @@
+feature1,feature2,statistic
+Onboard_date (Hour of Day),Years,0.13305775823554378
+Onboard_date (Year),Years,0.058581173921990574
+Age,Num_Sites,0.03868907606275303
+Onboard_date (Hour of Day),Onboard_date (Year),0.0672406407741203
+Churn,Num_Sites,0.16635968953375116
+Account_Manager,Num_Sites,0.0013874625123459462
+Onboard_date (Day of Month),Years,0.0890173039026027
+Onboard_date (Day of Week),Onboard_date (Hour of Day),0.0365918629887252
+Age,Onboard_date (Month),0.048857434758288305
+Churn,Onboard_date (Month),0.01272470196054695
+Onboard_date (Day of Month),Onboard_date (Year),0.04839803124000052
+Onboard_date (Day of Week),Onboard_date (Year),0.026622632120332092
+Age,Onboard_date (Hour of Day),0.11431302495411712
+Account_Manager,Onboard_date (Month),0.004969466223551758
+Age,Onboard_date (Day of Week),0.0261329554505289
+Churn,Onboard_date (Day of Week),0.0017198285158201618
+Account_Manager,Onboard_date (Day of Week),0.0033465928583727997
+Churn,Total_Purchase,0.006803818949906091
+Account_Manager,Total_Purchase,0.008142007824891728
+Age,Total_Purchase,0.09176427773267493
+Onboard_date (Month),Total_Purchase,0.04856188469540116
+Num_Sites,Years,0.049887014665389535
+Onboard_date (Day of Month),Onboard_date (Hour of Day),0.11259672613707351
+Onboard_date (Day of Week),Onboard_date (Month),0.015135552481104594
+Num_Sites,Onboard_date (Year),0.020392061720570332
+Onboard_date (Day of Week),Total_Purchase,0.039235179541584515
+Total_Purchase,Years,0.09005320020818086
+Num_Sites,Total_Purchase,0.047010854335681265
+Onboard_date (Hour of Day),Onboard_date (Month),0.06509275999178263
+Num_Sites,Onboard_date (Day of Month),0.05114842142755087
+Onboard_date (Day of Month),Onboard_date (Month),0.05741637730822697
+Onboard_date (Year),Total_Purchase,0.050809933253687024
+Num_Sites,Onboard_date (Hour of Day),0.05244927408864431
+Onboard_date (Hour of Day),Total_Purchase,0.1033663145762194
+Age,Years,0.08774858932853198
+Onboard_date (Day of Month),Onboard_date (Day of Week),0.04035889316114791
+Churn,Years,0.022237162022016563
+Account_Manager,Years,0.01203758350546396
+Onboard_date (Day of Month),Total_Purchase,0.09288378207163561
+Onboard_date (Month),Years,0.0566193949078235
+Age,Onboard_date (Year),0.056787885129136365
+Churn,Onboard_date (Year),0.009201312133053129
+Age,Churn,0.011719722563373948
+Onboard_date (Month),Onboard_date (Year),0.03392977562253825
+Account_Manager,Churn,0.007183338562204421
+Account_Manager,Onboard_date (Year),0.0027929287495126903
+Account_Manager,Age,0.005270532481599207
+Num_Sites,Onboard_date (Month),0.024277630144127527
+Onboard_date (Day of Week),Years,0.03525146337991749
+Age,Onboard_date (Day of Month),0.09887214796382895
+Churn,Onboard_date (Day of Month),0.01423667774990826
+Account_Manager,Onboard_date (Day of Month),0.005750057577375881
+Num_Sites,Onboard_date (Day of Week),0.013468835264484691
+Churn,Onboard_date (Hour of Day),0.010072748999673723
+Account_Manager,Onboard_date (Hour of Day),0.012224953532321295
+Account_Manager,Account_Manager,1
+Age,Age,1
+Churn,Churn,1
+Num_Sites,Num_Sites,1
+Onboard_date (Day of Month),Onboard_date (Day of Month),1
+Onboard_date (Day of Week),Onboard_date (Day of Week),1
+Onboard_date (Hour of Day),Onboard_date (Hour of Day),1
+Onboard_date (Month),Onboard_date (Month),1
+Onboard_date (Year),Onboard_date (Year),1
+Total_Purchase,Total_Purchase,1
+Years,Years,1
